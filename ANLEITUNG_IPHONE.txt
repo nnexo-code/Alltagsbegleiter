@@ -1,0 +1,27 @@
+MEIN ALLTAGSBEGLEITER – INSTALLATION AUF IPHONE / IPAD
+
+Die App ist als Progressive Web App (PWA) vorbereitet und kann auf dem Home-Bildschirm mit eigenem Symbol erscheinen. Sie ist keine native App aus dem App Store.
+
+WICHTIG: iOS benötigt zum Installieren eine öffentlich erreichbare HTTPS-Adresse. Die ZIP-Datei allein kann nicht direkt als App installiert werden.
+
+1. Entpacke diese ZIP-Datei auf einem Computer.
+2. Lade alle enthaltenen Dateien (index.html, manifest.webmanifest, sw.js und beide icon-Dateien) auf einen HTTPS-Webhost hoch. Zum Beispiel kannst du GitHub Pages verwenden.
+3. Öffne die veröffentlichte HTTPS-Adresse direkt in Safari auf deinem iPhone.
+4. Tippe auf das Teilen-Symbol (Quadrat mit Pfeil nach oben).
+5. Wähle „Zum Home-Bildschirm“.
+6. Aktiviere, falls angezeigt, „Als Web-App öffnen“, und tippe auf „Hinzufügen“.
+7. Starte die App anschließend über das neue Symbol auf deinem Home-Bildschirm.
+
+FUNKTIONEN
+- Tagesübersicht mit Aufgaben zum Abhaken
+- Wochen-Essensplan
+- Einkaufsliste mit 52,50-Euro-Budget
+- Fitness- und Bewegungsplan
+- Haushalts- und Pflegeroutine
+- Gewicht und Zigaretten dokumentieren
+- Offline-Nutzung nach dem ersten Laden (wenn die App korrekt über HTTPS bereitgestellt wurde)
+
+DATENSCHUTZ UND GRENZEN
+Deine Einträge werden lokal im Browser/Web-App-Speicher auf diesem iPhone abgelegt. Es gibt keine automatische Synchronisierung zwischen Geräten. Die App liest nicht automatisch deine Bildschirmzeit oder Nutzung anderer Apps aus. Push-Erinnerungen sind in dieser ersten Version nicht eingebaut.
+
+Lebensmittelpreise sind Richtwerte und können sich je nach Geschäft ändern.

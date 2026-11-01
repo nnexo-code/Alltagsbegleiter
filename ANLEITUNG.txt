@@ -1,0 +1,13 @@
+MEIN ALLTAGSBEGLEITER – ANDROID INSTALLATION
+
+Die App ist als Progressive Web App (PWA) vorbereitet. Für ein eigenes App-Symbol und Offline-Nutzung muss sie einmal über eine HTTPS-Adresse veröffentlicht werden.
+
+1. Entpacke die ZIP-Datei.
+2. Lade alle enthaltenen Dateien in ein neues GitHub-Repository hoch.
+3. Öffne Settings > Pages und veröffentliche den Hauptordner (Deploy from a branch).
+4. Öffne die angezeigte HTTPS-Adresse in Chrome auf deinem Android-Handy.
+5. Tippe auf ⋮ > „App installieren“ oder „Zum Startbildschirm hinzufügen“.
+
+Die App speichert Checklisten, Einkäufe, Gewicht und Zigaretteneinträge lokal im Browser auf diesem Gerät. Es gibt keine automatische Synchronisierung. Die App kann nicht selbstständig die Handy- oder PC-Nutzungszeit auslesen. Automatische Push-Erinnerungen sind in dieser ersten Version nicht enthalten.
+
+Die Lebensmittelpreise sind Richtwerte und können abweichen.
